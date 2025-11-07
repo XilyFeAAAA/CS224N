@@ -1,8 +1,6 @@
 import torch
 
-"""
-假设 y=w*x,并且需要训练的w为2
-"""
+
 
 
 w = torch.tensor([1.0], requires_grad=True)
